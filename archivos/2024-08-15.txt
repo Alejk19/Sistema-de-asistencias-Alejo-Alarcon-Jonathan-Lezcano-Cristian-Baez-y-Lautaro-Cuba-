@@ -1,0 +1,10 @@
+1001 Presente 
+1002 Presente 
+1003 Presente 
+1004 Presente 
+1005 Ausente 
+1006 Presente 
+1007 Ausente 
+1008 Presente 
+1009 Presente 
+1010 Presente 
